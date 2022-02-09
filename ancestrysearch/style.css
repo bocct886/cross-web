@@ -1,0 +1,28 @@
+.parent {
+    position: relative;
+    width: 400px;
+    margin: auto;
+    margin-top: 70px;
+  }
+  .image1 {
+    position: relative;
+    width: 400px;
+    margin: auto;
+  }
+  .image2 {
+    position: relative;
+    width: 400px;
+    margin: auto;
+  }
+  .image2:hover{
+        position: absolute;
+        width: 450px;
+        margin: auto;
+        position: relative;
+      }
+  div{
+      width: 400px;
+  }
+body{
+    background-color: black;
+}
